@@ -1,0 +1,37 @@
+body{
+    font-family: Helvetica;
+}
+#top-background-div{
+    height: 120px;
+    background-image: url("../img/pattern.jpeg");
+}
+#main-title{
+    top: 20px;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+ }
+#main-title-div{
+    top: 20px;
+    height: 100px;
+    
+}
+#brushes-title-div{
+    padding: 0.5% 0;
+    background-color: mediumspringgreen;
+    
+}
+.section{
+    font-size: medium;
+}
+
+.section-title{
+    font-size: large;
+}
+.section-ttle-div{
+    padding: 1%
+}
+.price-tag{
+    color: blue
+}
