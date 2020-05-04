@@ -22,14 +22,31 @@ body{
     background-color: mediumspringgreen;
     
 }
+
+.section-title{
+    color: white;
+    font-size: xx-large;
+}
+.section-subtitle{
+    color:black;
+    font-weight: bold;
+}
+
+#frames-title-div{
+    padding: 0.5% 0;
+    background-color:pink;
+    
+}
+#paint-title-div{
+    padding: 0.5% 0;
+    background-color:skyblue;
+    
+}
 .section{
     font-size: medium;
 }
 
-.section-title{
-    font-size: large;
-}
-.section-ttle-div{
+.section-title-div{
     padding: 1%
 }
 .price-tag{
